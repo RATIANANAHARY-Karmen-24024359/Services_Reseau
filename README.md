@@ -64,6 +64,6 @@ Encadrante : **Mme YAHI Safa**
 ## 📎 Rapport
 
 🔗 Le rapport complet détaillant les configurations est disponible ici :  
-**[📄 Télécharger le rapport PDF](./rapport.pdf)** *(à ajouter dans le dépôt GitHub)*
+**[📄 Voir le rapport](Rapport.pdf)** 
 
 
